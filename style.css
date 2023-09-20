@@ -1,0 +1,59 @@
+
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    border:0
+    }
+
+#imagem_fundo {
+    background-image: url(fundo.avif);
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}
+
+#link_inicio {
+    list-style-type: none;
+}
+
+.links {
+    padding: 20px;
+}
+
+img {
+    text-align: center;
+    width: 200px;
+    border: 5px outset black;
+}
+
+input {
+    border: 1px solid black;
+}
+
+#motivo {
+    border: 1px solid black;
+}
+
+textarea {
+    border: 1px solid black;
+}
+
+.hobbies {
+    margin: 20px 850px 20px;
+    border: 5px outset black;
+}
+
+#itens_lista {
+    list-style-type: disc;
+    list-style-position: inside;   
+}
